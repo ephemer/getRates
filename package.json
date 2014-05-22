@@ -1,0 +1,11 @@
+{
+  "name": "getRates",
+  "description": "Gets and prints the latest currency conversion rates between EUR and AUD, and alerts as to whether either rate is particularly good right now.",
+  "main": "index.js",
+  "version": "0.0.1",
+  "engine": "~0.10",
+  "private": true,
+  "dependencies": {
+    "cli-color": "~0.3.2"
+  }
+}
