@@ -1,0 +1,1 @@
+Replace (all) the contents of this file with the API key from your http://openexchangerates.org account.
